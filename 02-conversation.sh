@@ -16,7 +16,7 @@ echo "$PERSON2: Hey, $PERSON1, We are also serious"
 PERSON1=$1
 PERSON2=$2
 
-echo "$PERSON1: Hey Ukraine, we are going blast you!"
+echo "$PERSON1: Hey $PERSON2, we are going blast you!"
 echo "$PERSON2: Yes, Please you are welcome "
 echo "$PERSON1: Hey, $PERSON2 I am serious"
 echo "$PERSON2: Hey, $PERSON1, We are also serious"
